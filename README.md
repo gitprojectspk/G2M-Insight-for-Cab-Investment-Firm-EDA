@@ -1,5 +1,6 @@
 # G2M-Insight-for-Cab-Investment-Firm-EDA
-![image](https://user-images.githubusercontent.com/96436449/195412744-d70b6647-40f6-4f22-8af5-f27d922cf8e6.png)
+![image](https://user-images.githubusercontent.com/96436449/195415692-694f60f9-912e-4f2d-866c-0ec8d8d7c5e6.png)
+
 
 ## Problem Statement :
 The Client
