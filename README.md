@@ -33,7 +33,7 @@ We will analyze these 4 files and find insights about cabs, profit, customer etc
 [EDA](https://github.com/gitprojectspk/G2M-Insight-for-Cab-Investment-Firm-EDA/blob/main/G2M_Data_Wrangling_and_EDA.ipynb)
 
 ### People seems to use yellow cab more than pink cab. Cab dataset has 76.42% of transactions for yellow cab.
-Newyork city shows more rides and Pittsburgh shows lowest. 
+### Newyork city shows more rides and Pittsburgh shows lowest. 
 ![image](https://user-images.githubusercontent.com/96436449/195414738-019f057b-4997-414f-9dbd-7745751f51b3.png)
 
 ### More cab transactions are seen during the end of the year.
@@ -56,7 +56,7 @@ Newyork city shows more rides and Pittsburgh shows lowest.
 ![image](https://user-images.githubusercontent.com/96436449/195413750-3c2d02d4-3c64-4153-bc3d-016e872a3b45.png)
 
 ### Price Distribution :
-Yellow Cab shows more profit than Pink Cab
+### Yellow Cab shows more profit than Pink Cab
 ![image](https://user-images.githubusercontent.com/96436449/195413653-6b360d55-7353-45e8-8bdd-316686d74956.png)
 
 ### Profits per year :
