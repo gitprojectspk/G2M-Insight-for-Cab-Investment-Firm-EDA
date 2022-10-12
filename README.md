@@ -30,6 +30,7 @@ City.csv – this file contains list of US cities, their population and number o
 We will analyze these 4 files and find insights about cabs, profit, customer etc.
 
 ## Exploratory Data Analysis! 
+[EDA](https://github.com/gitprojectspk/G2M-Insight-for-Cab-Investment-Firm-EDA/blob/main/G2M_Data_Wrangling_and_EDA.ipynb)
 
 ### People seems to use yellow cab more than pink cab. Cab dataset has 76.42% of transactions for yellow cab.
 Newyork city shows more rides and Pittsburgh shows lowest. 
